@@ -3,6 +3,7 @@
     "name": "app-heat",
     "slug": "app-heat",
     "version": "1.0.0",
+    "scheme": "app-heat",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
